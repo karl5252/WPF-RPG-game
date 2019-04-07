@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GameItems>
+  <Weapons>
+    <Weapon MaximumDamage="2" MinimumDamage="0" Price="19" Name="Acrobat's Staff" ID="1004" />
+    <Weapon MaximumDamage="7" MinimumDamage="0" Price="12" Name="Amputation Knife" ID="1005" />
+    <Weapon MaximumDamage="6" MinimumDamage="0" Price="11" Name="Banderilla" ID="1006" />
+    <Weapon MaximumDamage="8" MinimumDamage="0" Price="2" Name="Bonesaw" ID="1007" />
+    <Weapon MaximumDamage="10" MinimumDamage="0" Price="6" Name="Brandistock" ID="1008" />
+    <Weapon MaximumDamage="11" MinimumDamage="0" Price="2" Name="Brass Knuckle" ID="1009" />
+    <Weapon MaximumDamage="13" MinimumDamage="0" Price="5" Name="Broad Claw" ID="1010" />
+    <Weapon MaximumDamage="9" MinimumDamage="0" Price="3" Name="Broken Sword" ID="1011" />
+    <Weapon MaximumDamage="2" MinimumDamage="0" Price="7" Name="Bug-Catching Net" ID="1012" />
+    <Weapon MaximumDamage="16" MinimumDamage="0" Price="2" Name="Cestus" ID="1013" />
+    <Weapon MaximumDamage="14" MinimumDamage="0" Price="2" Name="Chain Sickle" ID="1014" />
+    <Weapon MaximumDamage="12" MinimumDamage="0" Price="19" Name="Clawed Glove" ID="1015" />
+    <Weapon MaximumDamage="2" MinimumDamage="0" Price="12" Name="Crab Claw" ID="1016" />
+    <Weapon MaximumDamage="2" MinimumDamage="0" Price="11" Name="Crescent Staff" ID="1017" />
+    <Weapon MaximumDamage="19" MinimumDamage="0" Price="2" Name="Dagger-Axe" ID="1018" />
+    <Weapon MaximumDamage="13" MinimumDamage="0" Price="8" Name="Disc Blade" ID="1019" />
+    <Weapon MaximumDamage="12" MinimumDamage="0" Price="9" Name="Garrote" ID="1020" />
+    <Weapon MaximumDamage="17" MinimumDamage="0" Price="9" Name="Gavel" ID="1021" />
+    <Weapon MaximumDamage="22" MinimumDamage="0" Price="10" Name="Guardna" ID="1022" />
+    <Weapon MaximumDamage="13" MinimumDamage="0" Price="10" Name="Halberd" ID="1023" />
+    <Weapon MaximumDamage="3" MinimumDamage="0" Price="10" Name="Horn Knife" ID="1024" />
+    <Weapon MaximumDamage="13" MinimumDamage="0" Price="11" Name="Iron Claw" ID="1025" />
+    <Weapon MaximumDamage="8" MinimumDamage="0" Price="11" Name="Kabong" ID="1026" />
+    <Weapon MaximumDamage="15" MinimumDamage="0" Price="11" Name="Karambit" ID="1027" />
+    <Weapon MaximumDamage="13" MinimumDamage="0" Price="12" Name="Khutar" ID="1028" />
+    <Weapon MaximumDamage="18" MinimumDamage="0" Price="1" Name="Knife" ID="1029" />
+    <Weapon MaximumDamage="21" MinimumDamage="0" Price="12" Name="Knuckle Axe" ID="1030" />
+    <Weapon MaximumDamage="14" MinimumDamage="0" Price="13" Name="Kpinga" ID="1031" />
+    <Weapon MaximumDamage="19" MinimumDamage="0" Price="13" Name="Kris dagger" ID="1032" />
+    <Weapon MaximumDamage="12" MinimumDamage="0" Price="14" Name="Longsword" ID="1033" />
+    <Weapon MaximumDamage="11" MinimumDamage="0" Price="1" Name="Needle" ID="1034" />
+    <Weapon MaximumDamage="2" MinimumDamage="1" Price="1" Name="Pointy stick" ID="1001" />
+    <Weapon MaximumDamage="6" MinimumDamage="0" Price="5" Name="Poison Dagger" ID="1513" />
+    <Weapon MaximumDamage="2" MinimumDamage="0" Price="0" Name="Rat claw" ID="1502" />
+    <Weapon MaximumDamage="5" MinimumDamage="0" Price="5" Name="Reaver Staff" ID="1512" />
+    <Weapon MaximumDamage="3" MinimumDamage="1" Price="5" Name="Rusty sword" ID="1002" />
+    <Weapon MaximumDamage="7" MinimumDamage="0" Price="5" Name="Scythe" ID="1003" />
+    <Weapon MaximumDamage="2" MinimumDamage="0" Price="0" Name="Snake fang" ID="1501" />
+    <Weapon MaximumDamage="2" MinimumDamage="0" Price="0" Name="Spider fang" ID="1503" />
+    <Weapon MaximumDamage="14" MinimumDamage="0" Price="11" Name="Spiked Staff" ID="1504" />
+    <Weapon MaximumDamage="15" MinimumDamage="0" Price="2" Name="Stiletto Knife" ID="1505" />
+    <Weapon MaximumDamage="19" MinimumDamage="0" Price="9" Name="Three-Section Staff" ID="1506" />
+    <Weapon MaximumDamage="12" MinimumDamage="0" Price="9" Name="Torch Mace" ID="1507" />
+    <Weapon MaximumDamage="14" MinimumDamage="0" Price="9" Name="Torch Staff" ID="1508" />
+    <Weapon MaximumDamage="16" MinimumDamage="0" Price="9" Name="War Ribbon" ID="1509" />
+    <Weapon MaximumDamage="18" MinimumDamage="0" Price="9" Name="Wooden Sword" ID="1510" />
+    <Weapon MaximumDamage="20" MinimumDamage="0" Price="15" Name="Zweihander" ID="1511" />
+  </Weapons>
+  <HealingItems>
+    <HealingItem Price="5" Name="Granola bar" ID="2001" HitPointsToHeal="2" />
+    <HealingItem Price="2" Name="Raw garlic" ID="2002" HitPointsToHeal="1" />
+    <HealingItem Price="3" Name="Ginseng" ID="2003" HitPointsToHeal="2" />
+    <HealingItem Price="2" Name="Milk thistle" ID="2004" HitPointsToHeal="1" />
+    <HealingItem Price="3" Name="Feverfew" ID="2005" HitPointsToHeal="2" />
+    <HealingItem Price="2" Name="Aloe vera" ID="2006" HitPointsToHeal="1" />
+    <HealingItem Price="5" Name="Herbal tonic" ID="2007" HitPointsToHeal="3" />
+    <HealingItem Price="1" Name="Bilberry" ID="2008" HitPointsToHeal="1" />
+    <HealingItem Price="2" Name="Cats claw" ID="2009" HitPointsToHeal="2" />
+    <HealingItem Price="3" Name="Chaste berry" ID="2010" HitPointsToHeal="2" />
+    <HealingItem Price="3" Name="Devils claw" ID="2011" HitPointsToHeal="2" />
+    <HealingItem Price="4" Name="Dong quai" ID="2012" HitPointsToHeal="2" />
+    <HealingItem Price="3" Name="Echinacea" ID="2013" HitPointsToHeal="2" />
+    <HealingItem Price="2" Name="Wild yam" ID="2014" HitPointsToHeal="2" />
+    <HealingItem Price="1" Name="Goldenseal" ID="2015" HitPointsToHeal="2" />
+    <HealingItem Price="2" Name="Mahonia shrub" ID="2016" HitPointsToHeal="2" />
+    <HealingItem Price="3" Name="Dandelion" ID="2017" HitPointsToHeal="2" />
+    <HealingItem Price="6" Name="Damanu oil" ID="2018" HitPointsToHeal="2" />
+    <HealingItem Price="5" Name="River mint" ID="2019" HitPointsToHeal="2" />
+    <HealingItem Price="5" Name="Neetle" ID="2020" HitPointsToHeal="2" />
+    <HealingItem Price="6" Name="Chickweed" ID="2021" HitPointsToHeal="2" />
+    <HealingItem Price="6" Name="Myrrth" ID="2022" HitPointsToHeal="2" />
+    <HealingItem Price="7" Name="Opium" ID="2023" HitPointsToHeal="2" />
+    <HealingItem Price="7" Name="Mandrake" ID="2024" HitPointsToHeal="2" />
+    <HealingItem Price="8" Name="Chaulamoogra" ID="2025" HitPointsToHeal="2" />
+    <HealingItem Price="9" Name="Ephedra" ID="2026" HitPointsToHeal="2" />
+    <HealingItem Price="10" Name="Tamarind extract" ID="2027" HitPointsToHeal="2" />
+    <HealingItem Price="7" Name="Nightshade" ID="2028" HitPointsToHeal="2" />
+    <HealingItem Price="6" Name="Light healing potion" ID="2029" HitPointsToHeal="8" />
+    <HealingItem Price="8" Name="Medium healing potion" ID="2030" HitPointsToHeal="16" />
+    <HealingItem Price="10" Name="Large healing potion" ID="2031" HitPointsToHeal="32" />
+    <HealingItem Price="12" Name="Healing tonic" ID="2032" HitPointsToHeal="48" />
+    <HealingItem Price="15" Name="Rejuvenation tonic" ID="2033" HitPointsToHeal="54" />
+  </HealingItems>
+  <MiscellaneousItems>
+    <MiscellaneousItem Price="1" Name="Oats" ID="3001" />
+    <MiscellaneousItem Price="2" Name="Honey" ID="3002" />
+    <MiscellaneousItem Price="2" Name="Raisins" ID="3003" />
+    <MiscellaneousItem Price="1" Name="Snake fang" ID="9001" />
+    <MiscellaneousItem Price="2" Name="Snakeskin" ID="9002" />
+    <MiscellaneousItem Price="1" Name="Rat tail" ID="9003" />
+    <MiscellaneousItem Price="2" Name="Rat fur" ID="9004" />
+    <MiscellaneousItem Price="1" Name="Spider fang" ID="9005" />
+    <MiscellaneousItem Price="2" Name="Spider silk" ID="9006" />
+    <MiscellaneousItem Price="5" Name="Tamarind bark" ID="9007" />
+    <MiscellaneousItem Price="10" Name="Tamanu seed" ID="9008" />
+    <MiscellaneousItem Price="7" Name="Grappling hook" ID="9009" />
+    <MiscellaneousItem Price="8" Name="Chain" ID="9010" />
+    <MiscellaneousItem Price="6" Name="Rope" ID="9011" />
+    <MiscellaneousItem Price="5" Name="Crowbar" ID="9012" />
+    <MiscellaneousItem Price="5" Name="Blacksmits hammer" ID="9013" />
+    <MiscellaneousItem Price="5" Name="Miners pick" ID="9014" />
+    <MiscellaneousItem Price="3" Name="Pole" ID="9015" />
+    <MiscellaneousItem Price="5" Name="Sledgehammer" ID="9016" />
+    <MiscellaneousItem Price="5" Name="Shovel" ID="9017" />
+    <MiscellaneousItem Price="5" Name="Ladder" ID="9018" />
+    <MiscellaneousItem Price="8" Name="Cooking pot" ID="9019" />
+    <MiscellaneousItem Price="7" Name="Empty bottle" ID="9020" />
+    <MiscellaneousItem Price="9" Name="Emtpy flask" ID="9021" />
+    <MiscellaneousItem Price="15" Name="Alchemists scales" ID="9022" />
+    <MiscellaneousItem Price="3" Name="Calippers" ID="9023" />
+    <MiscellaneousItem Price="2" Name="Razor" ID="9024" />
+    <MiscellaneousItem Price="2" Name="Spatula" ID="9025" />
+    <MiscellaneousItem Price="20" Name="Armor repair kit" ID="9026" />
+    <MiscellaneousItem Price="20" Name="Weapon repair kit" ID="9027" />
+    <MiscellaneousItem Price="5" Name="Parchment roll" ID="9028" />
+  </MiscellaneousItems>
+</GameItems>
+
